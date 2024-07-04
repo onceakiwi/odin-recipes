@@ -1,0 +1,42 @@
+/* styles.css */
+
+
+body {
+    font-size: 20px;
+    font-weight: bold;
+    background-color: bisque;
+}
+
+p {
+    margin: 5px;
+    padding: 6px 10px;
+    font-weight: 200; 
+}
+
+.header1 {
+    color: rgb(18, 158, 193)
+}
+
+.list {
+    border:2px solid navy;
+    margin: 5px;
+    width:400px;
+    background-color: #AFE1AF;
+    padding: 6px 20px;
+    font-weight: 200;
+}
+
+.list2 {
+    border:2px solid navy;
+}
+
+.list2 li {
+    margin: 5px;
+    padding: 6px 10px;
+    font-weight: 200;
+    
+}
+
+#important {
+    font-weight: bold;
+}
